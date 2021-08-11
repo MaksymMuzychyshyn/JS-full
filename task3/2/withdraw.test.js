@@ -1,4 +1,3 @@
-
 import { withdraw } from './withdraw';
 
 it('should return transaction result (40)', () => {
